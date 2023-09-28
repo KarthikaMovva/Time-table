@@ -1,5 +1,9 @@
 
-#Kalvium{color: red;}
+#kalvium{color: red;
+font-size: 53px;
+}
+
+
 table{
   width: 800px;
 
@@ -31,7 +35,17 @@ th{
 #lunch{
   writing-mode: vertical-lr;
   text-align: center;
-  text-orientation: upright;
+  text-orientation: upright;}
+
+
+
+
+ul li{
+  list-style-type: none;
+  display: inline-block;
   
-  
+}
+nav ul{
+  padding-bottom: 100px;
+  padding: 14px 16px;
 }
