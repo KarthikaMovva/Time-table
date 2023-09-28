@@ -35,10 +35,7 @@ th{
   text-align: center;
   text-orientation: upright;}
 
-menu {
-  display: flex;
-  gap: 5px
-}
+
 
 .courses-menu-item {
   display: flex;
